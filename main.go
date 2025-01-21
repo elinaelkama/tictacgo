@@ -61,7 +61,7 @@ func printBoard() {
 		}
 	}
 
-	fmt.Println("￣￣￣￣")
+	fmt.Println("‾‾‾‾‾‾‾")
 }
 
 func playTurn() {
