@@ -1,4 +1,4 @@
-#TicTacGo
+# TicTacGo
 Install Go
 Run go build -o tictacgo.exe main.go
 Run tictacgo.exe or ./tictacgo.exe to Play
